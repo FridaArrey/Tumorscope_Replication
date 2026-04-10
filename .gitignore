@@ -1,0 +1,4 @@
+data/raw/
+*.tif
+*.svs
+.DS_Store
